@@ -32,8 +32,8 @@ Orang Yang Hebat
 Orang Yang Bijak
 Lelaki Yang Kelakar
 Orang Yang Pelik
-Mengejar Cita- Cta
-Reality Check
+Mengejar Cita- Cita
+Pemeriksaan Realiti
 -
 -
 Menarik
@@ -83,8 +83,8 @@ RPG
 Pegembaraan
 Simulasi
 Sukan
-Keja
-Interpersonal
+Kerja
+Hubungan
 Hobi
 Kesihatan
 Menjadi Berkuasa
@@ -122,7 +122,7 @@ Air
 Elektrik
 Rumput
 Ais
-Pejuang
+Berlawan
 Racun
 Tanah
 Terbang
