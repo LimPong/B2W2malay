@@ -1,51 +1,51 @@
-『Search Mode』
-Please enter the search criteria.
-『Search Results』
-\xf000Ȃ\x0001\x0000 was not found.
-Please enter the order.
-Please enter the first letter in the name.
-Please enter the type.
-Please enter the form.
-Please enter the color.
-Pokémon found!
-No Pokémon found...
-Searching...
-ORDER
-NAME
-TYPE
-COLOR
-FORM
-Unova Pokédex: Search Mode
-National Pokédex: Search Mode
-RESET
-START
-CANCEL
+『Mode Pencarian』
+Sila masukkan kriteria pencarian.
+『Hasil Pencarian』
+\xf000Ȃ\x0001\x0000 tidak dijumpai.
+Sila masukkan susunan.
+Sila masukkan huruf pertama di dalam nama.
+Sila masukkan jenis.
+Sila masukkan rupa.
+SIla masukkan warna.
+Pokémon dijumpai!
+Tiada Pokémon dijumpai...
+Sedang mencari...
+SUSUNAN
+NAMA
+JENIS
+WARNA
+RUPA
+Pokédex Unova: Mode Pencarian
+Pokédex Nasional: Mode Pencarian
+PENETAPAN SEMULA
+MULA
+BATAL
 \xf000Ȃ\x0001\x0000．\xf000Ȁ\x0001\x0001
-ACCEPT
-CANCEL
-Number
-A to Z
-Heavy to Light
-Light to Heavy
-Tall to Short
-Short to Tall
-Dark
-Rock
-Psychic
-Fighting
-Grass
-Ice
-Ghost
-Ground
-Electric
-Poison
-Dragon
+TERIMA
+BATAL
+Nombor
+A ke Z
+Berat ke Ringan
+Ringan ke Berat
+Tinggi ke Rendah
+Rendah ke Tinggi
+Gelap
+Batu
+Psikik
+Berlawan
+Rumput
+Ais
+Hantu
+Tanah
+Elektrik
+Racun
+Naga
 Normal
-Steel
-Flying
-Fire
-Water
-Bug
+Keluli
+Terbang
+Api
+Air
+Serangga
 ――――
 ／
 ――――
@@ -94,14 +94,14 @@ Z
 
 
 ―
-Red
-Blue
-Yellow
-Green
-Black
-Brown
-Purple
-Gray
-White
-Pink
+Merah
+Biru
+Kuning
+Hijau
+Hitam
+Coklat
+Unggu
+Kelabu
+Putih
+Merah Jambu
 ――――
